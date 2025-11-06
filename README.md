@@ -2,6 +2,12 @@
 
 In this lab, you’ve learned about edge sensitive circuits and explored some of the power therein.
 
+Team #23
+
+Members:
+Ashton Bassett
+Kaedyn Galushkin
+
 ## Rubric
 
 | Item | Description | Value |
@@ -15,7 +21,13 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 
 ### What is different between edge and level sensitive circuits?
 
+Edge sensitive circuits repsond to a change in a singal's voltage, while level sensitive respond to a specific voltage level.
+
 ### Why is it important to declare initial state?
 
+Because when circuit powers up, the state of a flip-flop is random.
+
 ### What do edge sensitive circuits let us build?
+
+It is used to build sequential digital systems.
 
